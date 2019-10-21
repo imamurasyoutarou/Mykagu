@@ -6,10 +6,9 @@ https://apps.apple.com/us/app/%E3%83%9E%E3%82%A4%E3%82%AB%E3%82%B0/id1482771246?
 **Android**
 https://play.google.com/store/apps/details?id=com.firebaseapp.react_naiative.Mykagu
 
-## Design
+##  UI/Design
 **sketchfile**
-URL
-https://www.dropbox.com/s/vnjpy995wkt20go/%E3%83%9E%E3%82%A4%E3%82%AB%E3%82%B0.sketch?dl=0
+https://www.dropbox.com/s/ckqael3gt78onnx/%E3%83%9E%E3%82%A4%E3%82%AB%E3%82%B0%202.sketch?dl=0
 
 ## Name
 マイカグ
