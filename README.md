@@ -30,6 +30,6 @@ https://www.dropbox.com/s/ckqael3gt78onnx/%E3%83%9E%E3%82%A4%E3%82%AB%E3%82%B0%2
 ![IMG_0126](https://user-images.githubusercontent.com/46349073/66713514-c97a3080-ede6-11e9-9759-69044b29ac15.jpg)
 
 ## Languag
-Reactnative Firebase sketch　expo 　
+Reactnative Firebase sketch　expo 　制作期間　3ヶ月
 
 
