@@ -4,7 +4,7 @@
 https://apps.apple.com/us/app/%E3%83%9E%E3%82%A4%E3%82%AB%E3%82%B0/id1482771246?l=ja&ls=1
 
 **Android**
-https://play.google.com/store/apps/details?id=com.firebaseapp.react_naiative.Mykagu
+https://play.google.com/store/apps/details?id=com.firebaseapp.react_naitive.Mykagu
 
 ##  UI/Design
 **sketchfile**
